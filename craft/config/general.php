@@ -23,4 +23,5 @@ return array(
 	'generateTransformsBeforePageLoad' => true,
 	'maxUploadFileSize' => 33554432,
 	'preventUserEnumeration' => true,
+	'allowAutoUpdates' => false,
 );
